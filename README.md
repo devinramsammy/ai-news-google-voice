@@ -1,6 +1,8 @@
 # AI NEWS GOOGLE VOICE
 
-AI News Google Voice automatically generates AI and tech news summaries and sends them directly to your phone via Google Voice. 
+AI News Google Voice automatically generates AI and tech news summaries and sends them directly to your phone via Google Voice.
+
+<img src="example.png" alt="Example" width="150"/>
 
 ## What it does
 
